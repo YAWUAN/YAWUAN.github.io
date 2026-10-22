@@ -1,0 +1,5 @@
+{
+  "Networking": ["OSPF", "BGP", "RIP", "VLAN", "Trunking", "DHCP", "DNS", "ACL", "VoIP"],
+  "Network Administration": ["Proxmox", "Cloudflare", "Linux (Learning)"],
+  "Leadership & Communication": ["Public Speaking", "Problem Solving", "Team Leadership"]
+}

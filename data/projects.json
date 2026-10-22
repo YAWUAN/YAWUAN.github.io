@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "as65000-as65001-lab",
+    "description": "Cisco Packet Tracer lab: eBGP between two AS with OSPF routing. Demonstrasi konfigurasi BGP dan OSPF di jaringan multi-AS.",
+    "tech": ["Cisco", "BGP", "OSPF"],
+    "repo": "https://github.com/YAWUAN/as65000-as65001-lab",
+    "demo": null,
+    "language": "Cisco Packet Tracer"
+  },
+  {
+    "id": 2,
+    "name": "routing-ospf",
+    "description": "Cisco Packet Tracer lab: single-area OSPF across 3 routers. Praktek konfigurasi OSPF dasar untuk routing dinamis.",
+    "tech": ["Cisco", "OSPF", "Routing"],
+    "repo": "https://github.com/YAWUAN/routing-ospf",
+    "demo": null,
+    "language": "Cisco Packet Tracer"
+  },
+  {
+    "id": 3,
+    "name": "HAND-GESTURE",
+    "description": "Hand gesture recognition menggunakan Python dan computer vision. Project kecil untuk detect gerakan tangan.",
+    "tech": ["Python", "OpenCV", "ML"],
+    "repo": "https://github.com/YAWUAN/HAND-GESTURE",
+    "demo": null,
+    "language": "Python"
+  },
+  {
+    "id": 4,
+    "name": "Flapy-bird-game",
+    "description": "Simple Flappy Bird game clone di Python. Project belajar game development dengan Pygame.",
+    "tech": ["Python", "Pygame"],
+    "repo": "https://github.com/YAWUAN/Flapy-bird-game",
+    "demo": null,
+    "language": "Python"
+  }
+]
